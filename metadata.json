@@ -1,0 +1,11 @@
+{
+  "name": "Vendor4ALL",
+  "description": "Empowering Local Livelihoods Through AI — Telugu voice-to-product listing and digital storefront for Visakhapatnam Rythu Bazaar vendors.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
